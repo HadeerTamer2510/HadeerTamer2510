@@ -2,7 +2,7 @@
 - 🌱 I’m Hadeer Tamer <br>- 🌱 I studied in information system department<br>-  🌱 I’m interested in front_end web development and ui/ux designer<br>- 📫 How to reach me: via email :doritamer6@gmail.com<br><br>
 
 
-## 🌐 Socials:
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086098871847&mibextid=2JQ9oc) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hadeeryones8?igsh=M3RsNW95bGhsaDUx) 
